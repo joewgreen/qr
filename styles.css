@@ -1,7 +1,6 @@
 body {
     background-color: hsl(212, 45%, 89%);
     min-width: 375px;
-    max-width: 1440px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -52,4 +51,5 @@ body {
     border-radius: 10px;
     align-items: center;
     margin-bottom: 15px;
+
 }
